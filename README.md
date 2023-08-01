@@ -40,6 +40,7 @@ I'm always interested in connecting with fellow developers, researchers, and ent
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 <br />
 
 ---
