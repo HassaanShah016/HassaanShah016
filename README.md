@@ -2,9 +2,9 @@
 
 ## I'm an Embedded Systems Engineer | Freelance Consultant | Tech Enthusiast!
 
-👋 Passionate about Embedded Systems, FPGAs, RTOS, and IoT technologies. My journey in the world of embedded systems has been a fascinating adventure, and I'm here to share my experiences and collaborate with like-minded developers.
+👋 Passionate about Embedded Systems, FPGAs, RTOS, and IoT technologies. My journey in the realm of embedded systems has been a fascinating adventure, and I'm here to share my experiences and collaborate with like-minded developers.
 
-- 🔭 I’m currently working on my youtube channel and [personal blog](https://syntaxspace.com/)!.
+- 🔭 I’m currently working on my youtube channel and [personal blog](https://syntaxspace.com/).
 - 🌱 I have an insatiable appetite for learning, always striving to expand my knowledge in every possible way 🤣.
 - 👯 I'm actively seeking collaboration opportunities with other content creators to foster innovation and knowledge-sharing.
 - 🥅 My goal for 2023 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
