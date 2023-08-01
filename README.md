@@ -22,9 +22,6 @@ I'm always interested in connecting with fellow developers, researchers, and ent
 
 ---
 
-### 🌐 Open Source Advocacy:
-I am a strong advocate for open-source software and believe in the power of collaboration and knowledge-sharing. You'll find my projects and contributions here on GitHub, which I hope can be helpful to others in the community.
-
 ### Languages and Tools:
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-6C5BAE?style=for-the-badge&logo=arduino&logoColor=white)
 ![SOCs](https://img.shields.io/badge/-SOC-FF5700?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -43,6 +40,12 @@ I am a strong advocate for open-source software and believe in the power of coll
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+<br />
+
+---
+
+### 🌐 Open Source Advocacy:
+I am a strong advocate for open-source software and believe in the power of collaboration and knowledge-sharing. You'll find my projects and contributions here on GitHub, which I hope can be helpful to others in the community.
 
 <br />
 
