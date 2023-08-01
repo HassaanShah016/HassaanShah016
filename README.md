@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Hassaan Shah - aka Shah Jee 👋
+### Hi there, I'm Muhammad Hassaan Shah - aka _Shah Jee_ 👋
 
 ## I'm an Embedded Systems Engineer | Freelance Consultant | Tech Enthusiast!
 
