@@ -22,7 +22,7 @@ I'm always interested in connecting with fellow developers, researchers, and ent
 
 ---
 
-### Languages and Tools:
+### ⚙️ Languages and Tools:
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-6C5BAE?style=for-the-badge&logo=arduino&logoColor=white)
 ![SOCs](https://img.shields.io/badge/-SOC-FF5700?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Xilinx FPGAs](https://img.shields.io/badge/-FPGA-990000?style=for-the-badge&logo=xilinx&logoColor=white)
