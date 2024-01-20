@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my YouTube channel and [personal blog](https://syntaxspace.com/).
 - 🌱 I have an insatiable appetite for learning, always striving to expand my knowledge in every possible way 🤣.
 - 👯 I'm actively seeking collaboration opportunities with other content creators to foster innovation and knowledge-sharing.
-- 🥅 My goal for 2023 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
+- 🥅 My goal for 2024 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
 - ⚡ Fun fact: I'm addicted to coding and exploring new domains; it's an exhilarating experience!
 
 ### 📫 Connect with me:
