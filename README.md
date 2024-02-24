@@ -4,7 +4,7 @@
 
 👋 Passionate about Embedded Systems, FPGAs, RTOS, and IoT technologies. My journey in the realm of embedded systems has been a fascinating adventure, and I'm here to share my experiences and collaborate with like-minded developers.
 
-- 🔭 I’m currently working on my [YouTube channel](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ) and [personal blog](https://syntaxspace.com/).
+- 🔭 I’m currently working on my [YouTube channel][youtube-channel] and [personal blog][website].
 - 🌱 I have an insatiable appetite for learning, always striving to expand my knowledge in every possible way 🤣.
 - 👯 I'm actively seeking collaboration opportunities with other content creators to foster innovation and knowledge-sharing.
 - 🥅 My goal for 2024 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
@@ -151,20 +151,11 @@ I am a strong advocate for open-source software and believe in the power of coll
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
-- [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
-- [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
-- [🤔 Should I use TypeScript, JSDoc, or Both?](https://www.youtube.com/watch?v=JTYhDiJiiFI)
-- [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
+- [MATLAB & Simulink Playlist](https://www.youtube.com/playlist?list=PLeDkamI5Ny0Qs6ICiMB0hFxjG_cy-I16i)
 <!-- YOUTUBE:END -->
 
- <!-- 
 [website]: https://syntaxspace.com
 [twitter]: https://twitter.com/HassaanShah016
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
--->
+[youtube-channel]: https://youtube.com/@HassaanS16
+[linkedin]: https://linkedin.com/in/your_linkedin_profile
+[matlab-and-simulink]: https://www.youtube.com/playlist?list=PLeDkamI5Ny0Qs6ICiMB0hFxjG_cy-I16i
