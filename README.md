@@ -158,7 +158,7 @@ I am a strong advocate for open-source software and believe in the power of coll
 - [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
 <!-- YOUTUBE:END -->
 
- 
+ <!-- 
 [website]: https://syntaxspace.com
 [twitter]: https://twitter.com/HassaanShah016
 [youtube]: https://youtube.com/codeSTACKr
@@ -167,3 +167,4 @@ I am a strong advocate for open-source software and believe in the power of coll
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+-->
