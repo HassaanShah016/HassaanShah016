@@ -10,19 +10,20 @@
 - 🥅 My goal for 2024 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
 - ⚡ Fun fact: I'm addicted to coding and exploring new domains; it's an exhilarating experience!
 
-### 📫 Connect with me:
+## 📫 Connect with me:
+
 I'm always interested in connecting with fellow developers, researchers, and enthusiasts. Let's discuss all things embedded systems!
 
 [![Website](https://img.shields.io/badge/Website-syntaxspace-1abc9c?style=for-the-badge&logo=web)](https://www.syntaxspace.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/hassaanshah016)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your_linkedin_profile)
-
 <br />
 
 ---
 
-### ⚙️ Languages and Tools:
+## ⚙️ Languages and Tools:
+
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-6C5BAE?style=for-the-badge&logo=arduino&logoColor=white)
 ![SOCs](https://img.shields.io/badge/-SOC-FF5700?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Xilinx FPGAs](https://img.shields.io/badge/-FPGA-990000?style=for-the-badge&logo=xilinx&logoColor=white)
@@ -40,19 +41,19 @@ I'm always interested in connecting with fellow developers, researchers, and ent
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
 <br />
 
 ---
 
-### 🌐 Open Source Advocacy:
+## 🌐 Open Source Advocacy:
+
 I am a strong advocate for open-source software and believe in the power of collaboration and knowledge-sharing. You'll find my projects and contributions here on GitHub, which I hope can be helpful to others in the community.
-
 <br />
 
 ---
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
 - [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
 - [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
