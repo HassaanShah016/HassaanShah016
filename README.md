@@ -4,7 +4,7 @@
 
 👋 Passionate about Embedded Systems, FPGAs, RTOS, and IoT technologies. My journey in the realm of embedded systems has been a fascinating adventure, and I'm here to share my experiences and collaborate with like-minded developers.
 
-- 🔭 I’m currently working on my YouTube channel and [personal blog](https://syntaxspace.com/).
+- 🔭 I’m currently working on my [YouTube channel](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ) and [personal blog](https://syntaxspace.com/).
 - 🌱 I have an insatiable appetite for learning, always striving to expand my knowledge in every possible way 🤣.
 - 👯 I'm actively seeking collaboration opportunities with other content creators to foster innovation and knowledge-sharing.
 - 🥅 My goal for 2024 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
@@ -15,7 +15,7 @@ I'm always interested in connecting with fellow developers, researchers, and ent
 
 [![Website](https://img.shields.io/badge/Website-syntaxspace-1abc9c?style=for-the-badge&logo=web)](https://www.syntaxspace.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/hassaanshah016)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC9aBHc-vosY0o2U0FXo2evQ)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your_linkedin_profile)
 
 <br />
