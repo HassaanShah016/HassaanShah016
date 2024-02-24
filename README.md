@@ -17,7 +17,9 @@ I'm always interested in connecting with fellow developers, researchers, and ent
 [![Website](https://img.shields.io/badge/Website-syntaxspace-1abc9c?style=for-the-badge&logo=web)](https://www.syntaxspace.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/hassaanshah016)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
+<!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your_linkedin_profile)
+-->
 <br />
 
 ---
