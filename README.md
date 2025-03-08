@@ -1,13 +1,9 @@
-### Hi there, I'm Muhammad Hassaan Shah - aka _Shah Jee_ 👋
-
 ### I'm an Embedded Systems Engineer | Technical Services Consultant | Freelancer | Tech Enthusiast!
 
 👋 Passionate about Embedded Systems, FPGAs, RTOS, and IoT technologies. My journey in the realm of embedded systems has been a fascinating adventure, and I'm here to share my experiences and collaborate with like-minded developers.
 
-- 🔭 I’m currently working on my [YouTube channel][youtube-channel] and [personal blog][website].
 - 🌱 I have an insatiable appetite for learning, always striving to expand my knowledge in every possible way 🤣.
-- 👯 I'm actively seeking collaboration opportunities with other content creators to foster innovation and knowledge-sharing.
-- 🥅 My goal for 2024 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
+- 🥅 My goal for 2025 is to contribute significantly to Open Source projects, making a positive impact on the developer community.
 - ⚡ Fun fact: I'm addicted to coding and exploring new domains; it's an exhilarating experience!
 <br />
 
@@ -129,18 +125,6 @@
 
 ---
 
-## 📫 Connect with me:
-
-I'm always interested in connecting with fellow developers, researchers, and enthusiasts. Let's discuss all things embedded systems!
-
-[![Website](https://img.shields.io/badge/Website-embeddeddeepdive-1abc9c?style=for-the-badge&logo=web)](https://www.embeddeddeepdive.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/hassaanshah016)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your_linkedin_profile) -->
-<br />
-
----
-
 ## 🌐 Open Source Advocacy:
 
 I am a strong advocate for open-source software and believe in the power of collaboration and knowledge-sharing. You'll find my projects and contributions here on GitHub, which I hope can be helpful to others in the community.
@@ -148,14 +132,4 @@ I am a strong advocate for open-source software and believe in the power of coll
 
 ---
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [MATLAB & Simulink Playlist](https://www.youtube.com/playlist?list=PLeDkamI5Ny0Qs6ICiMB0hFxjG_cy-I16i)
-<!-- YOUTUBE:END -->
-
-[website]: https://embeddeddeepdive.com
 [twitter]: https://twitter.com/HassaanShah016
-[youtube-channel]: https://youtube.com/@HassaanS16
-[linkedin]: https://linkedin.com/in/your_linkedin_profile
-[matlab-and-simulink]: https://www.youtube.com/playlist?list=PLeDkamI5Ny0Qs6ICiMB0hFxjG_cy-I16i
